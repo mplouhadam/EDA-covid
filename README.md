@@ -1,16 +1,13 @@
-## SQL - Tableau Integration Projects
+# SQL - Tableau Integration Projects
 
-<br />
-### Tools
+## Tools:
 - Google Bigquery
 - Tableau
 
-<br />
-### Live Demo
+## Live Demo
 [View project details on Tableau Public](https://public.tableau.com/app/profile/adam.sulistyo.n/viz/CovidRateinIndonesiaandCompareWithOtherCountriesinAsia/CovidRateTracker)
 
-<br />
-### Project
+## Project
 This project aims to answer my curiosity about Covid in Indonesia and compare it with other countries in Asia, including:
 - How many case rates, death rates and vaccination rates in Indonesia? 
 - How many case rates, death rates and vaccination rates in Asian Countries?
