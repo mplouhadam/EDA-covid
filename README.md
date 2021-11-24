@@ -5,6 +5,8 @@
 - Tableau
 
 ## Live Demo
+[<img align="left" alt="Tableau Project" src="https://raw.githubusercontent.com/mplouhadam/EDA-covid/main/EDA-covid.PNG" />]
+
 [View project details on Tableau Public](https://public.tableau.com/app/profile/adam.sulistyo.n/viz/CovidRateinIndonesiaandCompareWithOtherCountriesinAsia/CovidRateTracker)
 
 ## Project
